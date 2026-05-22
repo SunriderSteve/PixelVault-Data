@@ -2,3 +2,6 @@
   audio_zoom_podtrak_p4:
     c: false
     q: 1
+  cam_canon_hfg70:
+    c: false
+    q: 1
