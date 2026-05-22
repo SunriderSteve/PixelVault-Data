@@ -5,3 +5,6 @@
   cam_canon_hfg70:
     c: false
     q: 1
+  tripod_manfrotto_befree:
+    c: false
+    q: 1
