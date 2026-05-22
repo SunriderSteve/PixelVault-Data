@@ -20,7 +20,7 @@
     c: false
     q: 1
   sennheiser_mke_40_lavalier_mic:
-    c: false
+    c: true
     q: 1
   tripod_manfrotto_befree:
     c: false
