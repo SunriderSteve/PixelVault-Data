@@ -19,9 +19,6 @@
   sandisk_extreme_pro_128gb:
     c: false
     q: 1
-  sennheiser_mke_40_lavalier_mic:
-    c: true
-    q: 1
   tripod_manfrotto_befree:
     c: false
     q: 1
