@@ -1,7 +1,4 @@
 "Loan of NLBA Training 11/6/26":
-  audio_sennheiser_g4:
-    c: true
-    q: 1
   audio_zoom_podtrak_p4:
     c: false
     q: 1
