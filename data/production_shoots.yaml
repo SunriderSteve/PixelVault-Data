@@ -5,6 +5,9 @@
   cam_canon_hfg70:
     c: false
     q: 1
+  sennheiser_mke_40_lavalier_mic:
+    c: false
+    q: 1
   tripod_manfrotto_befree:
     c: false
     q: 1
